@@ -4,3 +4,4 @@ djangorestframework
 python-decouple
 drf-yasg
 djangorestframework-simplejwt
+django-filter

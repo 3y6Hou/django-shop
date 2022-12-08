@@ -22,9 +22,9 @@ from drf_yasg.views import get_schema_view
 
 swagger_view = get_schema_view(
     openapi.Info(
-        title='Auth API',
+        title='SHOP API',
         default_version='v1',
-        description='auth API'
+        description='shop API'
     ),
     public=True
 )
